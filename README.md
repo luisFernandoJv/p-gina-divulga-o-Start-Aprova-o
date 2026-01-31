@@ -27,10 +27,10 @@ O projeto foi construído utilizando apenas tecnologias nativas, garantindo leve
 
 - **HTML5 Semântico:** Estrutura acessível e organizada.
 - **CSS3 Moderno:**
-  - _CSS Variables_ para fácil manutenção de cores.
+  - _CSS Variaveis_ para fácil manutenção de cores.
   - _CSS Grid_ e _Flexbox_ para layouts responsivos.
-  - _Keyframes_ para animações complexas.
-- **JavaScript (Vanilla):** Uso da `IntersectionObserver API` para animar os elementos conforme o usuário rola a tela.
+  - _Keyframes_ para animações complexas. 
+
 
 ---
 
